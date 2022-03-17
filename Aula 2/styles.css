@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    color:#3F3D56;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.title {
+    font-size: 37px;
+    margin-bottom: 22;
+    font-weight: 700;
+}
+
+.labe-field {
+    font-size: 14px;
+    font
+
+
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+
+}
